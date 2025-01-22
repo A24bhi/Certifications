@@ -2,5 +2,5 @@
 This repository contains my professional certifications in Data Science, AI, Power BI, and more.
 
 ## Certificates
-- [Power BI Data Analyst Certification](link-to-certificate)
+- [SQL Certification](https://github.com/A24bhi/Certifications/blob/main/intellipaat-certificate.pdf)
 - [Python for Data Science](link-to-certificate)
